@@ -1,5 +1,5 @@
-# watchware apps for your smartwatch 
-### From SMART-PHONE to Dumb-PHONE with SMART-watch. 
+# watchware by DonationCoderAtWork - Apps for your Android based Smartwatch
+### Moving from Smartphone to Smartwatch
 
 **What?** - Apps for your Android based Smartwatch like Galaxy-/Pixel-/Xiaomi-Watch (Maybe Huawei).\
 **Why?** - Use your watch more for whats important and your phone less for what in the end is just stealing time.\
